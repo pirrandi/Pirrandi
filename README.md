@@ -3,21 +3,20 @@
 </p>
 
 <br>
-
+<!--
 <p align="center">
   <a href="https://app.hackthebox.com/profile/1533991" style="display: inline-block; margin-right: 20px;">
     <img src="https://www.hackthebox.com/badge/image/1533991" alt="Hack The Box Badge" width="210" height="50">
   </a>
 </p>
 
-##
-
+<!--
 <h3 align="center">
   <samp>&gt; 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔</samp>
 </h3>
 
 <br>
-
+-->
 <p align="center">
   <img src="assets/stack.svg" alt="Tech stack: Python, Shell, PowerShell, C, C++, Burp Suite, Metasploit, Wireshark, Linux, Docker, Git, WireGuard, Raspberry Pi, Arduino, Wazuh, Microsoft Sentinel, Trend Vision One" width="880"/>
 </p>
