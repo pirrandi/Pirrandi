@@ -2,7 +2,6 @@
   <img src="assets/header.svg" alt="Diego Valencia — Security Researcher / Pentester" width="880"/>
 </p>
 
-<br>
 <!--
 <p align="center">
   <a href="https://app.hackthebox.com/profile/1533991" style="display: inline-block; margin-right: 20px;">
