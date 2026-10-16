@@ -1,10 +1,5 @@
-<!-- Intro -->
-<h3 align="center">
-  <samp>&gt; Diego Valencia (pirrandi)</samp>
-</h3>
-
 <p align="center">
-  <samp>Security Researcher • Pentester • CTF Player</samp>
+  <img src="assets/header.svg" alt="Diego Valencia — Security Researcher / Pentester" width="880"/>
 </p>
 
 <br>
@@ -24,20 +19,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white">
-  <img src="https://img.shields.io/badge/burp%20suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white">
-  <img src="https://img.shields.io/badge/wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white">
-  <img src="https://img.shields.io/badge/metasploit-%232596CD.svg?style=for-the-badge&logo=metasploit&logoColor=white">
-  <img src="https://img.shields.io/badge/wazuh-%233b86c4.svg?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/microsoft%20sentinel-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="assets/stack.svg" alt="Tech stack: Python, Shell, PowerShell, C, C++, Burp Suite, Metasploit, Wireshark, Linux, Docker, Git, WireGuard, Raspberry Pi, Arduino, Wazuh, Microsoft Sentinel, Trend Vision One" width="880"/>
 </p>
 
 ##
